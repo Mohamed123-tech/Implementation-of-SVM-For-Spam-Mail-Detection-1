@@ -22,9 +22,9 @@ Google collab
 /*
 Program to implement the SVM For Spam Mail Detection..
 
-Developed by: 212220040081
+Developed by: 212220040089
 
-RegisterNumber:  logeshwaran s
+RegisterNumber:  A.Mohamed musharuf
 
 */
 
@@ -83,25 +83,31 @@ accuracy
 
 Output:
 1. Result output
+
 ![image](https://github.com/ATHDY005/Implementation-of-SVM-For-Spam-Mail-Detection/assets/84709944/3785e0f4-10ec-466a-b1bf-94283bac0562)
 
 2. data.head()
+
 ![image](https://github.com/ATHDY005/Implementation-of-SVM-For-Spam-Mail-Detection/assets/84709944/a3e14574-25c2-4d9d-b1df-a92f7292e07b)
 
 
 3. data.info()
+
 ![image](https://github.com/ATHDY005/Implementation-of-SVM-For-Spam-Mail-Detection/assets/84709944/1caddfee-f990-43ec-a6fb-6c753c7197cd)
 
 
 4. data.isnull().sum()
+
 ![image](https://github.com/ATHDY005/Implementation-of-SVM-For-Spam-Mail-Detection/assets/84709944/c18db785-480e-4a82-8044-b5a2543d6396)
 
 
 5. Y_prediction value
+
 ![image](https://github.com/ATHDY005/Implementation-of-SVM-For-Spam-Mail-Detection/assets/84709944/f4d9070f-7291-4c24-b224-0cbab840954b)
 
 
 6. Accuracy value
+
 ![image](https://github.com/ATHDY005/Implementation-of-SVM-For-Spam-Mail-Detection/assets/84709944/5fc8b022-ea77-4523-adc4-c13c13eef2ae)
 
 
